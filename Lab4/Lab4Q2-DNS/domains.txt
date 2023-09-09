@@ -1,0 +1,4 @@
+startoffile,
+google.com,8.8.8.8
+facebook.com,112.53.33.8
+endoffile,
